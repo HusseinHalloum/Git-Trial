@@ -13,7 +13,11 @@
 1. From 2018 - 2020 : **Catering Operation** at Lebanese Airport Catering Company
 
 ---
-
+### **EDUCATION** :
+* studying computer science - LIU 2018    -> 2020
+* Superior Technician Degree(TS) - Information Technology - 2018
+* baccalaureat degree (Life Science)- 2015
+---
 
 ### **Key Skills** :
 
