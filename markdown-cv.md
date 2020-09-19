@@ -1,5 +1,5 @@
 # CURRICULUM VITAE
- 
+ <div style="margin-left: 80px; width: 100px; height: 100px;">![Title](images/hussein-halloum.jpg)</div>
 ---
 * **Name**    : Hussein Halloum  
 * **Address** : Beirut - Al Ouzaie  
